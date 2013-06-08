@@ -1,0 +1,12 @@
+h1 {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+video {
+    width: 100%;
+}
+
+.span12 {
+    margin-top: 30px;
+}

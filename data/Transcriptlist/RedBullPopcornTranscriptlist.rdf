@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/0">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:08</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Hassan Mouti (FRA)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">We are here in La Rochelle and very soon we will have the first stop of Red Bull Cliff Diving World Series 2010. I came here and I met up with some friends and we did something really cool today.</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/1">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:28</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Cyril Oumedjkane (FRA)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">Today we were in Fort Boyard and history says that the Fort was built by the French to defend against the British, more precisely, the Royal Navy. The Fort was built but not really used to defend and in the end it was just used as a prison, but today it will be used to show how we still can push back the English from France.</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/2">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Gary Hunt (GBR)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">The last years competitions went really well, I ended up second but this year we are here before the start of the season and we have done a helicopter dive with the two french divers and we have been talking about all the history between the French and the English. But to be honest history is history and I still got some tricks up my sleeve and I'm completely ready to take on the French, the Russians, the Colombians whoever - bring on the competition. And we have got 6 really unique, cool spoots and it is gonna start with, right here behind me, La Rochelle very soon.</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/3">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:13</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Joey Zuber (AUS)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„Hi, I‘m Joey Zuber and I‘m a former Cliff Diver and we are here in La Rochelle, France, at the location where I first saw Cliff Diving again after my horrible accident. Unfortunately due the severe nature of my injuries I being forced into retirement so the reason why I am here is I am an expert on Cliff Diving and I am gonna help to view a unique inside into this sport. From my perspective this location here in France, without a doubt, will be the most difficult tour stop. Why? Because it‘s really cold, we are talking 6 degrees, high winds, I feel sorry for the athletes, I really do. So I hope you are ready to see some of the bravest athletes on the planet.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/4">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:59</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Niki Stajkovic (AUT)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„This is a special event setup because we are dealing with a historical building and we had to create a special platform which has a big weight here on the bottom and the platform itself is not allowed to touch the building, so we have this weight counteracting the end of the platform. There is a lot of weight that comes on when the diver jumps off the platform creates about 3000-4000 pounds of pressure on the back here and it has to counterbalance which normally were connected to the building or the cliff or whatever we are at. But in this case we couldn‘t do that and they did a really good job making it as stable as possible. In addition we have one of the highest platforms or the highest platform of the tour, it‘s 27.5 meters and it‘s the first event. So for them it‘s quite a challenge, not only do they have to deal with the weather but also the scare factor that we have one of the highest platform, the water is only 12-14 degrees celsius, so it‘s a lot harder to land here and they are all pretty excited and a little bit scared.
+Another interesting factor is the water colour. We have a greenish brown colour and it‘s not transparent as most of the other waters that we are in, which is in some ways good for the divers because they will see the surface directly. Sometimes when they have a transparent colour they look at the bottom and they don‘t really know where the surface is, that‘s why we have that water spray to break it up, in this case that helps them. On the other hand for safety purposes it‘s also a little bit more dangerous and when they land in the water you can not see more than one or two feet and so the scuba guys that are gonna help the divers and have to be on the top of their game in order to make sure they don‘t lose them in case something happens. We are dealing with extreme tide differences here at the atlantic coast, it‘s close to 6 meters difference from high to low tide but 20 feet and the minimum dive depth requirement for the divers is 5 meters and we have to reach this. In order to reach that we have to wait till it‘s high tide here, this high tide will still give us 27.5 meters which is the minimum we can actually get, otherwise it would be even higher.“ </spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/5">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:20</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Steve Black (AUS)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„Nowadays you have to be in shape due to the fact that we have a lot more diving and competitions and it‘s a lot of up here too. Mainly because of the fact that we don‘t have a place where we can train of 28 or 26 meters. So the whole idea is to keep your body in shape as much as you can and then up here is the thinking part of the rest of the dive. You do train but only on 10 meter and then the rest of it is up here.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/6">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:51</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Orlando Duque (COL)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„I think I‘m more of a mind person. Like I been in the sport for a long time and I have to deal with a lot of difficult situations, difficult locations, difficult dives, taff competition situations and at that moment the physical part is always there, you know you are always strong if you did the preparations, you are always in shape, but you have to deal with this and it‘s a mental thing.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/7">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:22</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Kent de Mond (USA)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„You know I really don‘t think it‘s so much that you can train the mind to do it, you are either like have that as a diver or you don‘t.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/8">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Gary Hunt (GBR)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„I say it is possible to train your mind, you have to go over these dives a hundred or two hundred times and before you have even tried the dive once you have to know that you can do it and what you gonna feel like, what you gonna see.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/9">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:47</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Artem Silchenko (RUS)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„Maybe 1 or 2 seconds before the jump my brain flies, my body stays but my brain flies.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/10">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:56</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Orlando Duque (COL)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„Before the dive I‘m just a 100 % focused on what I have to do.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/11">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:07</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Hassan Mouti (FRA)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„I think Cliff Diving is 70 % mind and 30 % body.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/12">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:19</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Kent de Mond (USA)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„By the time I step out to the platform the only thing I‘m thinking about is just the start. You know just the first jump, not even the flips because my mind already knows how to do it.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/13">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:34</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Orlando Duque (COL)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„As soon as I take off it‘s almost like an automatic change. The thing is if I know that I‘m diving today I‘m gonna be fit, I know it. If I show up here to dive today, I‘m fit to dive - mentally and physically, if not I‘m not gonna come, I‘m not even gonna show up.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/14">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:01</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Gary Hunt (GBR)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„I couldn‘t be happier, I loved that dive until the end because I knew I can do it well and it worked out.“</spoken_words>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/15">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/transcripts"/>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:12</timeIn>
+	<who xmlns="http://localhost:8080/LMF/resource/">Joey Zuber (AUS)</who>
+	<spoken_words xmlns="http://localhost:8080/LMF/resource/">„Wow, wow, wow - what an incredible start in the series look we really are in a new era of cliff diving.“</spoken_words>
+</rdf:Description>
+
+</rdf:RDF>

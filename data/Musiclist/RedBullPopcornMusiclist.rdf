@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/0">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">1</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">311428</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:00:49</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:49:07</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">Practically Einstein</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">Bradley Pugh ( ASCAP )</composer>
+	<dc:publisher>Pump Audio Publishing</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/1">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">2</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">313681</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:00:14</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:49:07</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">1:03:24</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">CHINASKI</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">Bruce Lomet ( ASCAP )
+Dan Cudahy ( ASCAP )</composer>
+	<dc:publisher>Pump Audio Publishing</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/2">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">3</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">314981</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:01:13</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">1:03:24</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">2:17:06</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">HISS &amp; CHAMBERS</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">Shawn Saindon ( BMI )</composer>
+	<dc:publisher>Pump Audio Publishing</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/3">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">1</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">323742</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:00:51</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:51:03</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">The Los Dos Bros</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">Derric Oliver ( BMI )
+Louis Caverly ( BMI )</composer>
+	<dc:publisher>Pump Box Music</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/4">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">2</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">37808</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:02:27</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:51:03</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">3:18:24</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">Daryl</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">Daryl</composer>
+	<dc:publisher>Pump Audio Publishing</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/5">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">1</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">283218</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:01:04</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">1:04:01</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">Film &amp; Music Co</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">John Zeretzke ( BMI )</composer>
+	<dc:publisher>Pump Box Music</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/6">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">2</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">289065</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:01:59</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">1:04:01</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">3:03:21</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">Suturee</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">Julian Brau ( ASCAP )</composer>
+	<dc:publisher>Pump Audio Publishing</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/7">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/musiclist"/>
+	<number xmlns="http://localhost:8080/LMF/resource/">1</number>
+	<track_id xmlns="http://localhost:8080/LMF/resource/">230380</track_id>
+	<duration xmlns="http://localhost:8080/LMF/resource/">0:01:22</duration>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:22</timeOut>
+	<use xmlns="http://localhost:8080/LMF/resource/">BI</use>
+	<artist xmlns="http://localhost:8080/LMF/resource/">Round Sky Music / Studio Unicorn</artist>
+	<composer xmlns="http://localhost:8080/LMF/resource/">Paul Avgerinos ( ASCAP )</composer>
+	<dc:publisher>Pump Audio Publishing</dc:publisher>
+	<record_label xmlns="http://localhost:8080/LMF/resource/">Pump Audio</record_label>
+</rdf:Description>
+
+</rdf:RDF>

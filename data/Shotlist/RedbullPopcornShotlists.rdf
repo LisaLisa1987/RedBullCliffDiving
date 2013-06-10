@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/0">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeOut>
+	<dc:description>Gary Hunt (GBR), Hassan Mouti (FRA) and Cyrill Oumedjkane (FRA) leaving the Towers in La Rochelle after a cool action</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/1">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:08</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:08</timeOut>
+	<dc:description>Interview: Hassan Mouti (FRA) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/2">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:22</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:22</timeOut>
+	<dc:description>Gary Hunt (GBR) and Hassan Mouti (FRA) getting into the helicopter</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/3">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:26</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:26</timeOut>
+	<dc:description>Helicopter flying</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/4">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:28</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:28</timeOut>
+	<dc:description>Interview: Cyrill Oumedjkane (FRA)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/5">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:36</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:36</timeOut>
+	<dc:description>Aerial Shot Fort Boyard</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/6">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:44</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:44</timeOut>
+	<dc:description>Cyrill Oumedjkane inside the helicopter</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/7">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:55</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:55</timeOut>
+	<dc:description>Cyrill Oumedjkane and Hassan Mouti diving</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/8">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:09</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:09</timeOut>
+	<dc:description>Gary Hunt and Hassan Mouti diving</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/9">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:20</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:20</timeOut>
+	<dc:description>Cyrill Oumedjkane and Gary Hunt diving</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/10">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeOut>
+	<dc:description>Interview: Gary Hunt (GBR) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/11">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeOut>
+	<dc:description>Gary Hunt and Hassan Mouti diving</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/12">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:45</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:45</timeOut>
+	<dc:description>Cyrill Oumedjkane, Gary Hunt and Hassan Mouti playing history between French and English</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/13">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:52</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:52</timeOut>
+	<dc:description>Passing the Towers of La Rochelle, the first spot of the Red Bull Cliff Diving World Series 2010</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/14">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:13</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:13</timeOut>
+	<dc:description>Closer</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/15">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310017/shotlist"/>
+	<dc:date>12.04.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:17</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:17</timeOut>
+	<dc:description>End</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/16">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:03</timeOut>
+	<dc:description>Establishing shot La Rochelle / France</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/17">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:03</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:05</timeOut>
+	<dc:description>Saint NIcolas Tower</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/18">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:05</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:13</timeOut>
+	<dc:description>Establishing shot La Rochelle / France</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/19">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:13</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:56</timeOut>
+	<dc:description>ITV Joey Zuber (AUS) (engl.) (TV expert)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/20">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:21</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:28</timeOut>
+	<dc:description>Joey Zuber walking up the Saint Nicolas Tower</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/21">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:28</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:34</timeOut>
+	<dc:description>Joey Zuber looking at the Saint Nicolas Tower</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/22">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:37</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:41</timeOut>
+	<dc:description>Saint Nicolas Tower with platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/23">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:56</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:58</timeOut>
+	<dc:description>Close up Gary Hunt (GBR)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/24">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:58</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:03:18</timeOut>
+	<dc:description>ITV Niki Stajkovic (AUT) (engl.) (Sportive Director)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/25">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:03</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:07</timeOut>
+	<dc:description>Platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/26">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:16</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:22</timeOut>
+	<dc:description>Details platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/27">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:22</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:31</timeOut>
+	<dc:description>Diver standing on the platform and jumping off</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/28">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:34</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:41</timeOut>
+	<dc:description>Saint Nicolas Tower with platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/29">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:45</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:49</timeOut>
+	<dc:description>Orlando Duque (COL) on the way to the platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/30">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:52</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:59</timeOut>
+	<dc:description>Hassan Mouti (FRA) on the platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/31">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:59</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:01</timeOut>
+	<dc:description>Close up water</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/32">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:07</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:13</timeOut>
+	<dc:description>Scuba divers checking the depth of the water</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/33">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:21</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:26</timeOut>
+	<dc:description>Water spray</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/34">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:26</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:29</timeOut>
+	<dc:description>Scuba divers</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/35">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:29</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:39</timeOut>
+	<dc:description>Scuba diver in the water and water spray</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/36">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:39</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:46</timeOut>
+	<dc:description>Steve Black (AUS) standing on the platform and jumping off</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/37">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:46</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:52</timeOut>
+	<dc:description>Establishing shot tide</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/38">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310018/shotlist"/>
+	<dc:date>13.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:03:01</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:03:18</timeOut>
+	<dc:description>Timelapse tide</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/39">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:04</timeOut>
+	<dc:description>Preparation/concentration Kent de Mond (USA)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/40">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:04</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:09</timeOut>
+	<dc:description>Preparation/concentration Slava Polyeshchuk (ITA)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/41">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:09</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:11</timeOut>
+	<dc:description>Preparation/concentration Eber Pava (COL)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/42">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:11</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:16</timeOut>
+	<dc:description>Preparation/concentration Michael Navratil (CZE)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/43">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:16</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:20</timeOut>
+	<dc:description>Preparation/concentration Orlando Duque (COL)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/44">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:20</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:51</timeOut>
+	<dc:description>ITV Steve Black (AUS) (engl.) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/45">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:20</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:27</timeOut>
+	<dc:description>Steve Black (AUS) on the way to the diving platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/46">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:35</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:42</timeOut>
+	<dc:description>Steve Black (AUS) jumping off the platform - handstand</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/47">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:51</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:16</timeOut>
+	<dc:description>ITV Orlando Duque (COL) (engl.)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/48">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:05</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:16</timeOut>
+	<dc:description>Preparation/concentration Orlando Duque (COL)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/49">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:16</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:21</timeOut>
+	<dc:description>Kent de Mond (USA) standing on the platform - concentration before the dive</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/50">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:21</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:25</timeOut>
+	<dc:description>Kent de Mond (USA) jumping off</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/51">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:22</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeOut>
+	<dc:description>ITV Kent de Mond (USA) (engl.) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/52">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:30</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:47</timeOut>
+	<dc:description>ITV Gary Hunt (GBR) (engl.)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/53">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:47</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:56</timeOut>
+	<dc:description>ITV Artem Silchenko (RUS) (engl.)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/54">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:56</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:59</timeOut>
+	<dc:description>Orlando Duque (COL) standing on the platform - concentration before the dive</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/55">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:56</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:02</timeOut>
+	<dc:description>ITV Orlando Duque (COL) (engl.) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/56">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:02</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:12</timeOut>
+	<dc:description>Dive of Hassan Mouti (FRA)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/57">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:07</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:19</timeOut>
+	<dc:description>ITV Hassan Mouti (FRA) (french) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/58">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:19</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:28</timeOut>
+	<dc:description>ITV Kent de Mond (USA) (engl.) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/59">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:19</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:26</timeOut>
+	<dc:description>Kent de Mond (USA) walking to the bottom of the platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/60">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:26</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:35</timeOut>
+	<dc:description>Dive of Orlando Duque (COL)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/61">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:34</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:55</timeOut>
+	<dc:description>ITV Orlando Duque (COL) (engl.) (starting in off)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/62">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:40</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:02:46</timeOut>
+	<dc:description>Dive of Orlando Duque (COL)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/63">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310019/shotlist"/>
+	<dc:date>14.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:02:52</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:03:04</timeOut>
+	<dc:description>Preparation/concentration Orlando Duque (COL)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/64">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:00</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:01</timeOut>
+	<dc:description>Saint Nicolas Tower</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/65">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:01</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:03</timeOut>
+	<dc:description>Diving platform and spectators</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/66">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:03</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:04</timeOut>
+	<dc:description>Preparation Gary Hunt (GBR)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/67">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:04</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:05</timeOut>
+	<dc:description>Total shot spectators</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/68">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:05</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:07</timeOut>
+	<dc:description>Preparation Gary Hunt (GBR)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/69">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:07</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:08</timeOut>
+	<dc:description>Steve Black (AUS) on the platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/70">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:08</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:09</timeOut>
+	<dc:description>Preparation Kent de Mond (USA)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/71">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:09</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:12</timeOut>
+	<dc:description>Dive of Artem Silchenko (RUS)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/72">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:12</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:14</timeOut>
+	<dc:description>Gary hunt (GBR) on the platform</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/73">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:14</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:16</timeOut>
+	<dc:description>Preparation Orlando Duque (COL)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/74">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:16</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:19</timeOut>
+	<dc:description>Dive of Hassan Mouti (FRA)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/75">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:19</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:20</timeOut>
+	<dc:description>Spectators</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/76">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:20</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:21</timeOut>
+	<dc:description>Scuba diver</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/77">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:21</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:23</timeOut>
+	<dc:description>Dive of Artem Silchenko (RUS)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/78">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:23</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:31</timeOut>
+	<dc:description>Handstand dive of Steve Black (AUS) - crash + showing that he is ok</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/79">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:31</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:32</timeOut>
+	<dc:description>Preparation Michael Navratil (CZE)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/80">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:32</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:36</timeOut>
+	<dc:description>Dive of Kent de Mond (USA) - 3rd place</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/81">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:36</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:42</timeOut>
+	<dc:description>Dive of Orlando Duque (COL) - 2nd place</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/82">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:42</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:43</timeOut>
+	<dc:description>Spectators</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/83">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:43</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:45</timeOut>
+	<dc:description>Orlando Duque (COL) in the water</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/84">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:45</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:46</timeOut>
+	<dc:description>Gary Hunt (GBR) before his dive</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/85">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:46</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:52</timeOut>
+	<dc:description>Dive of Gary Hunt - 1st place</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/86">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:52</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:00:55</timeOut>
+	<dc:description>Spectators</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/87">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:00:55</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:01</timeOut>
+	<dc:description>Dive of Gary Hunt - slowmo</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/88">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:01</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:09</timeOut>
+	<dc:description>ITV Gary hunt (GBR) (engl.) - 1st place</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/89">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:09</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:12</timeOut>
+	<dc:description>Price-giving
+1st place: Gary Hunt (GBR)
+2nd place: Orlando Duque (COL)
+3rd place: Kent de Mond (USA)</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/90">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:12</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:19</timeOut>
+	<dc:description>ITV Joey Zuber (AUS) (engl.) - TV expert</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://localhost:8080/LMF/resource/91">
+	<dc:identifier rdf:resource="http://localhost:8080/LMF/resource/MI201003310021/shotlist"/>
+	<dc:date>15.05.2010</dc:date>
+	<timeIn xmlns="http://localhost:8080/LMF/resource/">0:01:19</timeIn>
+	<timeOut xmlns="http://localhost:8080/LMF/resource/">0:01:22</timeOut>
+	<dc:description>Logo - Red Bull Cliff Diving World Series 2010</dc:description>
+</rdf:Description>
+
+</rdf:RDF>

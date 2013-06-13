@@ -18,7 +18,8 @@ $(function(){
                     start: convertTime(data.results.bindings[i].TimeIn.value),
                     end: convertTime(data.results.bindings[i].TimeOut.value),
                     target: "songNote",
-                    text: data.results.bindings[i].Artist.value
+                    text: "<b>Artist: </b>" + data.results.bindings[i].Artist.value + "<br><b>Composer: </b>" + data.results.bindings[i].Composer.value + 
+                          "<br> <b>Record Label: </b>" + data.results.bindings[i].RecordLabel.value + "<br/><b>Duration: </b>" + data.results.bindings[i].Duration.value + " sec."
                 }); 
             }
         }

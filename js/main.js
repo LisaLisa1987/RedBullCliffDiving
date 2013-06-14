@@ -46,9 +46,13 @@ $(function(){
 
             success: function(data) {               
                 for(var i = 0; i<data.results.bindings.length; i++) {
+                    if( i != data.results.bindings.length-1 )
+                        timeOut = data.results.bindings[i+1].TimeIn.value;
+                    else
+                        timeOut = null
                     popcorn.footnote({
                         start: data.results.bindings[i].TimeIn.value,
-                        //end: data.results.bindings[i].TimeOut.value,
+                        end: timeOut,
                         target: "mainNote",
                         text: "<p><b>Speaker: </b>" + data.results.bindings[i].Who.value + "<br><b>Transcription: </b>" + data.results.bindings[i].SpokenWords.value + "</p>"
                     }); 
